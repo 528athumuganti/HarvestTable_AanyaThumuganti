@@ -1,4 +1,12 @@
 body {
-background-image: url()
+background-image: url('thanksgivingBackground.png');
+
+}
+
+footer {
+height: 75px;
+width: 100%;
+background-color: #a04d23bb;
+
 
 }
